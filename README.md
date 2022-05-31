@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @Abass-rashid
-- 👀 I’m interested in  full-stack web development
-- 🌱 I’m currently learning  javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- i'm looking to collaborate on software development projects
+HI  am Abass A JavaScript  developer!
 
-<!---
-Abass-rashid/Abass-rashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-🔭 I’m currently a full time student at Microverse Inc.
+
+-🌱 I’m currently learning everything 🤣
+
+-👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
+
+-🥅 2022 Goals: to gain more experience and grow
+
+-⚡ Fun fact: I love travelling and networking
+
+-📫 Reach me on abazrashid144@gmail.com
